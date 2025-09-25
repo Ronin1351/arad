@@ -1,0 +1,14 @@
+﻿# dependencies
+node_modules/
+.pnpm-store/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+# next / vercel
+.next/
+.vercel/
+# env / logs / misc
+.env*
+npm-debug.log*
+logs/
+.DS_Store
